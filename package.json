@@ -1,8 +1,0 @@
-{
-  "name": "void-royale-server",
-  "version": "1.0.0",
-  "description": "Matchmaking + relay server for VOID ROYALE",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
